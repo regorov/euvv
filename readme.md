@@ -1,10 +1,11 @@
 # euvv
 
-EU VAT Number Validation Golang Package and Command Line Tool. Verify the validity of a VAT number issued by any Member State.
+EU VAT Number Validation Golang Package and Command Line Tool. 
 
 [![GoDoc](https://godoc.org/github.com/regorov/euvv?status.svg)](https://godoc.org/github.com/regorov/euvv)
 
 ## Usage
+Verify the validity of a VAT number issued by any Member State.
 
 ### Command Line Tool
 ```
